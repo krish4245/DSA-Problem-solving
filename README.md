@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/krish4245/DSA-Problem-solving/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/krish4245/DSA-Problem-solving/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0136-single-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krish4245/DSA-Problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/krish4245/DSA-Problem-solving/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/krish4245/DSA-Problem-solving/tree/master/0066-plus-one) |
+| [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krish4245/DSA-Problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krish4245/DSA-Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/krish4245/DSA-Problem-solving/tree/master/0012-integer-to-roman) |
+| [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -60,5 +63,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krish4245/DSA-Problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
