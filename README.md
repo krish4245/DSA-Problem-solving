@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/krish4245/DSA-Problem-solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/krish4245/DSA-Problem-solving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/krish4245/DSA-Problem-solving/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/krish4245/DSA-Problem-solving/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0136-single-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/krish4245/DSA-Problem-solving/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0136-single-number) |
 ## String
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/krish4245/DSA-Problem-solving/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/krish4245/DSA-Problem-solving/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
