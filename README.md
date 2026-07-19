@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/krish4245/DSA-Problem-solving/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/krish4245/DSA-Problem-solving/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/krish4245/DSA-Problem-solving/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krish4245/DSA-Problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/krish4245/DSA-Problem-solving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/krish4245/DSA-Problem-solving/tree/master/0069-sqrtx) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
