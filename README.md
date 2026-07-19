@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/krish4245/DSA-Problem-solving/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/krish4245/DSA-Problem-solving/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0136-single-number) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/krish4245/DSA-Problem-solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/krish4245/DSA-Problem-solving/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/krish4245/DSA-Problem-solving/tree/master/0089-gray-code) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krish4245/DSA-Problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/krish4245/DSA-Problem-solving/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/krish4245/DSA-Problem-solving/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/krish4245/DSA-Problem-solving/tree/master/0089-gray-code) |
 ## Dynamic Programming
 |  |
 | ------- |
