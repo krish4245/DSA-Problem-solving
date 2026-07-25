@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/krish4245/DSA-Problem-solving/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/krish4245/DSA-Problem-solving/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/krish4245/DSA-Problem-solving/tree/master/1189-maximum-number-of-balloons) |
+| [2833-furthest-point-from-origin](https://github.com/krish4245/DSA-Problem-solving/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/krish4245/DSA-Problem-solving/tree/master/1189-maximum-number-of-balloons) |
+| [2833-furthest-point-from-origin](https://github.com/krish4245/DSA-Problem-solving/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
