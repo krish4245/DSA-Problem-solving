@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish4245/DSA-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2540-minimum-common-value](https://github.com/krish4245/DSA-Problem-solving/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krish4245/DSA-Problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/krish4245/DSA-Problem-solving/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/krish4245/DSA-Problem-solving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish4245/DSA-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2540-minimum-common-value](https://github.com/krish4245/DSA-Problem-solving/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krish4245/DSA-Problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/krish4245/DSA-Problem-solving/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/krish4245/DSA-Problem-solving/tree/master/0041-first-missing-positive) |
 | [1189-maximum-number-of-balloons](https://github.com/krish4245/DSA-Problem-solving/tree/master/1189-maximum-number-of-balloons) |
+| [2540-minimum-common-value](https://github.com/krish4245/DSA-Problem-solving/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/krish4245/DSA-Problem-solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/krish4245/DSA-Problem-solving/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish4245/DSA-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2540-minimum-common-value](https://github.com/krish4245/DSA-Problem-solving/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
