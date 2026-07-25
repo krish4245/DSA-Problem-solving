@@ -9,12 +9,6 @@ public:
         int x = stoi(s);
 
         return abs(x-n);
-
-
-
-
-
-        
         
     }
 };
