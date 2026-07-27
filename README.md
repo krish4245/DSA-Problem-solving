@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish4245/DSA-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/krish4245/DSA-Problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2540-minimum-common-value](https://github.com/krish4245/DSA-Problem-solving/tree/master/2540-minimum-common-value) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/krish4245/DSA-Problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/krish4245/DSA-Problem-solving/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/krish4245/DSA-Problem-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krish4245/DSA-Problem-solving/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
