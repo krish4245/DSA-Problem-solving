@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/krish4245/DSA-Problem-solving/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krish4245/DSA-Problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/krish4245/DSA-Problem-solving/tree/master/2833-furthest-point-from-origin) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/krish4245/DSA-Problem-solving/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/krish4245/DSA-Problem-solving/tree/master/0041-first-missing-positive) |
 | [1189-maximum-number-of-balloons](https://github.com/krish4245/DSA-Problem-solving/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/krish4245/DSA-Problem-solving/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/krish4245/DSA-Problem-solving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
