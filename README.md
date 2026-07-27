@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish4245/DSA-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krish4245/DSA-Problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/krish4245/DSA-Problem-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2540-minimum-common-value](https://github.com/krish4245/DSA-Problem-solving/tree/master/2540-minimum-common-value) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/krish4245/DSA-Problem-solving/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/krish4245/DSA-Problem-solving/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/krish4245/DSA-Problem-solving/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krish4245/DSA-Problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/krish4245/DSA-Problem-solving/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
