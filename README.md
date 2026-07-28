@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/krish4245/DSA-Problem-solving/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/krish4245/DSA-Problem-solving/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/krish4245/DSA-Problem-solving/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/krish4245/DSA-Problem-solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/krish4245/DSA-Problem-solving/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/krish4245/DSA-Problem-solving/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/krish4245/DSA-Problem-solving/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/krish4245/DSA-Problem-solving/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/krish4245/DSA-Problem-solving/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
