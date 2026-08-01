@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish4245/DSA-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/krish4245/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
+| [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krish4245/DSA-Problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/krish4245/DSA-Problem-solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/krish4245/DSA-Problem-solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krish4245/DSA-Problem-solving/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/krish4245/DSA-Problem-solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/krish4245/DSA-Problem-solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krish4245/DSA-Problem-solving/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krish4245/DSA-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/krish4245/DSA-Problem-solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish4245/DSA-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/krish4245/DSA-Problem-solving/tree/master/0796-rotate-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
