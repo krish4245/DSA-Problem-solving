@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krish4245/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/krish4245/DSA-Problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/krish4245/DSA-Problem-solving/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/krish4245/DSA-Problem-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/krish4245/DSA-Problem-solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish4245/DSA-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,4 +218,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
