@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/krish4245/DSA-Problem-solving/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/krish4245/DSA-Problem-solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/krish4245/DSA-Problem-solving/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish4245/DSA-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish4245/DSA-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/krish4245/DSA-Problem-solving/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/krish4245/DSA-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/krish4245/DSA-Problem-solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/krish4245/DSA-Problem-solving/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish4245/DSA-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2540-minimum-common-value](https://github.com/krish4245/DSA-Problem-solving/tree/master/2540-minimum-common-value) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/krish4245/DSA-Problem-solving/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/krish4245/DSA-Problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/krish4245/DSA-Problem-solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/krish4245/DSA-Problem-solving/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
