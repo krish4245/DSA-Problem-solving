@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krish4245/DSA-Problem-solving/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/krish4245/DSA-Problem-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish4245/DSA-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krish4245/DSA-Problem-solving/tree/master/1510-stone-game-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -227,14 +229,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krish4245/DSA-Problem-solving/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krish4245/DSA-Problem-solving/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/krish4245/DSA-Problem-solving/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
 | ------- |
@@ -251,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/krish4245/DSA-Problem-solving/tree/master/0100-same-tree) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krish4245/DSA-Problem-solving/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krish4245/DSA-Problem-solving/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
