@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/krish4245/DSA-Problem-solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/krish4245/DSA-Problem-solving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/krish4245/DSA-Problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish4245/DSA-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/krish4245/DSA-Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krish4245/DSA-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/krish4245/DSA-Problem-solving/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/krish4245/DSA-Problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish4245/DSA-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
