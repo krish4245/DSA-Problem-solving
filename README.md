@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/krish4245/DSA-Problem-solving/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/krish4245/DSA-Problem-solving/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/krish4245/DSA-Problem-solving/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/krish4245/DSA-Problem-solving/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/krish4245/DSA-Problem-solving/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krish4245/DSA-Problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/krish4245/DSA-Problem-solving/tree/master/1510-stone-game-iv) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/krish4245/DSA-Problem-solving/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
