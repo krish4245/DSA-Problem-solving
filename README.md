@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/krish4245/DSA-Problem-solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/krish4245/DSA-Problem-solving/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/krish4245/DSA-Problem-solving/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/krish4245/DSA-Problem-solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/krish4245/DSA-Problem-solving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/krish4245/DSA-Problem-solving/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/krish4245/DSA-Problem-solving/tree/master/0089-gray-code) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/krish4245/DSA-Problem-solving/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/krish4245/DSA-Problem-solving/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krish4245/DSA-Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/krish4245/DSA-Problem-solving/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/krish4245/DSA-Problem-solving/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/krish4245/DSA-Problem-solving/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/krish4245/DSA-Problem-solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish4245/DSA-Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
